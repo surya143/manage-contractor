@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name=TestNG>
+  <test name="com.selenium.testcases">
+    <classes>
+      <class name="ManageContractorCreation"/>
+            <class name="ManageContractorupdation"/>
+                        <class name="ManageContractorDeletion"/>
+         </classes>
+          </classes>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
